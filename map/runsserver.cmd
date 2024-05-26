@@ -1,0 +1,1 @@
+npx http-server --log-ip --no-dotfiles -r -d false
